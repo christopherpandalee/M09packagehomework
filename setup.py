@@ -4,7 +4,7 @@ from setuptools import setup
 
 setup(
 
-    name='bookloverpackage',
+    name='booklover',
 
     version='0.1',
 
@@ -18,6 +18,6 @@ setup(
 
     license='MIT',
 
-    packages=['bookloverpackage']
+    packages=['booklover']
 
 )
